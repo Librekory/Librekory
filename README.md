@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Librekory
+- 👋 Hi, I’m @Libriskory
 - 👀 I’m interested in développement web
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on my mail.
